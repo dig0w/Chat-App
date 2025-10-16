@@ -74,7 +74,7 @@ To install the client packages:
   JWT_SECRET = Token Key
   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#chat-app">back to top</a>)</p>
 
 
 
@@ -91,7 +91,7 @@ This application uses:
 * [![NodeJS][NodeJS.org]][NodeJS-url]
 * [![Socket][Socket.io]][Socket-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#chat-app">back to top</a>)</p>
 
 
 
@@ -107,7 +107,7 @@ This application uses:
 
 See the [open issues](https://github.com/dig0w/chat-app/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#chat-app">back to top</a>)</p>
 
 
 
@@ -116,7 +116,7 @@ See the [open issues](https://github.com/dig0w/chat-app/issues) for a full list 
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#chat-app">back to top</a>)</p>
 
 
 
@@ -125,13 +125,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#chat-app">back to top</a>)</p>
 
 
 
-Project Link: [https://github.com/dig0w/chat-app](https://github.com/dig0w/chat-app)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+**🔗 Project Link:** [github.com/dig0w/chat-app](https://github.com/dig0w/chat-app)
 
 
 
