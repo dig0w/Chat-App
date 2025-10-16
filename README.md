@@ -3,12 +3,7 @@
 <div align="center">
   <h2 align="center">Chat App</h2>
 
-  <p align="center">
-    An open-source web chat application
-    <br />
-    <br />
-    <a href="https://github.com/dig0w/chat-app">View Demo</a>
-  </p>
+  <p align="center">An open-source web chat application</p>
 </div>
 
 
@@ -134,11 +129,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-[@dig0w0224](https://twitter.com/dig0w0224) - dig0w.work@gmail.com
 
 Project Link: [https://github.com/dig0w/chat-app](https://github.com/dig0w/chat-app)
 
